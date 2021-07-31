@@ -28,7 +28,7 @@ ECHO =============================================
 ECHO TROUBLESHOOTING
 ECHO If "Windows Resource Protection found corrupt files but was unable to fix some of them. 
 ECHO     Details are included in the CBS.Log %WinDir%\Logs\CBS\CBS.log." is found:-
-ECHO Solution: PERFORM A REPAIR INSTALL OF Windows
+ECHO Solution: Perform a repair install of Windows.
 ECHO --------------------------------------------
 ECHO If "Windows Resource Protection could not perform the requested operation." is found:-
 ECHO Solution: Run the command in safe mode
